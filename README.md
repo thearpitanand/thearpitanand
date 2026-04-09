@@ -77,6 +77,8 @@ I’m not bound to any single tech stack. From building microservices in **Go** 
 
 ### GitHub Stats
 
+#### Personal
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearpitanand&theme=tokyonight" alt="Profile Details" />
 </p>
@@ -88,4 +90,15 @@ I’m not bound to any single tech stack. From building microservices in **Go** 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearpitanand&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+#### Work ([@arpitanandzethic](https://github.com/arpitanandzethic))
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitanandzethic&theme=tokyonight" alt="Work Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitanandzethic&theme=tokyonight" alt="Work GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitanandzethic&theme=tokyonight" alt="Work GitHub Streak" />
 </p>
