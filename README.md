@@ -51,10 +51,9 @@ I don't choose problems by stack. I choose a stack that fits the problem, learn 
 **AI & ML**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" alt="AI and ML" />
+  <img src="./assets/ai-ml.svg" alt="PyTorch, TensorFlow, scikit-learn, Anaconda, Claude, OpenAI, Gemini, LangChain, Hugging Face, Ollama, MCP" />
 </p>
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 **Data & Messaging**
 
