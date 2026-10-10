@@ -11,7 +11,7 @@
 const arpit = {
   role: "Senior Software Engineer @ Talendy Holdings",
   shippingSince: 2021,
-  writes: ["TypeScript", "Go", "Python", "Java", "PHP", "C++"],
+  writes: ["TypeScript", "Go", "Python", "Dart", "Java", "PHP", "C++"],
   believes: "the stack is a tool, not an identity",
   enjoys: ["system design", "untangling legacy code", "code reviews that teach"],
   currentlyLearning: "how to build AI-assisted workflows that actually hold up in production",
@@ -33,28 +33,48 @@ I don't choose problems by stack. I choose a stack that fits the problem, learn 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,py,java,cpp,php,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,java,cpp,dart,php,html,css,bash" alt="Languages" />
 </p>
 
 **Backend & APIs**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,django,laravel,graphql,nginx" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,flask,django,spring,laravel,graphql,nginx" alt="Backend and APIs" />
 </p>
 
-**Frontend**
+**Frontend & Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,flutter,figma" alt="Frontend and mobile" />
 </p>
 
-**Data, Cloud & Tooling**
+**AI & ML**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch,docker,aws,gcp,githubactions,git,jest,linux" alt="Data, cloud and tooling" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" alt="AI and ML" />
 </p>
 
-Plus WebSockets, microservices, IoT integrations, and whatever the next problem needs.
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
+**Data & Messaging**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch,dynamodb,sqlite,firebase,supabase,prisma,kafka,rabbitmq" alt="Data and messaging" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,vercel,cloudflare,githubactions,grafana,prometheus,sentry,linux" alt="Cloud and DevOps" />
+</p>
+
+**Tooling & Testing**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,pnpm,postman,jest,vitest,cypress,vscode" alt="Tooling and testing" />
+</p>
+
+Plus React Native, WebSockets, microservices, RAG pipelines, LLM agents, IoT integrations, and whatever the next problem needs.
 
 ### Open source & collaboration
 
