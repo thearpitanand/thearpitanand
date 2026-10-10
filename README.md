@@ -81,10 +81,12 @@ I'm putting more of my time into open source and contributing back to tools I us
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thearpitanand)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.thearpitanand.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitssanand@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/the_arpitanand)
+<p>
+  <a href="https://linkedin.com/in/thearpitanand"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.thearpitanand.com"><img src="./assets/website.svg" alt="Website" /></a>
+  <a href="mailto:arpitssanand@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://x.com/the_arpitanand"><img src="./assets/x.svg" alt="X" /></a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearpitanand&theme=tokyonight" alt="GitHub activity" />
