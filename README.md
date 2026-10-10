@@ -1,104 +1,82 @@
-<h1 align="center">Hey, I’m Arpit Anand</h1>
-
-<h3 align="center">Senior Software Engineer | Building Scalable Systems Across Fintech, Hospitality & IoT</h3>
+<h1 align="center">Hey, I’m Arpit 👋</h1>
 
 <p align="center">
-  <img src="./assets/me.gif" width=350 height=300>
-  <img src="./assets/new.gif" height=300/>
+  <b>Senior Software Engineer</b> · I ship across the stack, I take the boring parts seriously, and I keep learning every day.<br/>
+  📍 Bengaluru, India · 🌐 <a href="https://www.thearpitanand.com">thearpitanand.com</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thearpitanand&label=Profile%20views&color=0e75b6&style=flat" alt="thearpitanand" /> </p>
-
 ---
 
-### About Me
+```ts
+const arpit = {
+  role: "Senior Software Engineer @ Talendy Holdings",
+  shippingSince: 2021,
+  writes: ["TypeScript", "Go", "Python", "Java", "PHP", "C++"],
+  believes: "the stack is a tool, not an identity",
+  enjoys: ["system design", "untangling legacy code", "code reviews that teach"],
+  currentlyLearning: "how to build AI-assisted workflows that actually hold up in production",
+  originStory: "mechanical engineer → self-taught software engineer",
+  askMeAbout: ["NestJS", "Go microservices", "Postgres vs Mongo debates", "shipping on deadlines"],
+};
+```
 
-I’m a Senior Software Engineer at **Zethic Technologies** (4+ years), where I lead engineering across **6 active projects** spanning hospitality, fintech, recruitment, and IoT domains.
+### What I do, day in and day out
 
-I’m not bound to any single tech stack. From building microservices in **Go** for Bandhan Bank, to collaborating with hardware teams on **IoT infrastructure**, to managing full-stack delivery with **NestJS/Next.js** - I work wherever the problem needs solving.
+I've spent 5 years building and maintaining production systems in **fintech, hospitality, recruitment and IoT**. That has meant Go microservices for a bank, IoT backends built together with hardware teams, real-time platforms on WebSockets and Redis, and full-stack products from the first commit through to on-call.
 
-- Currently leading: **SABA, Paywize, Jobsco, Qyrus, Lumira, Bandhan Bank**
-- Background: Mechanical Engineering (BTech) turned self-taught software engineer
-- Based in **Bengaluru, India**
+These days I'm a Senior Software Engineer at **Talendy Holdings**, working on architecture, technical decisions and end-to-end product work. I'm slowly growing into the Tech Lead / Architect role: better code reviews, cleaner refactors, more automation, and standards the team actually wants to follow.
 
----
+I don't choose problems by stack. I choose a stack that fits the problem, learn what I'm missing, and ship.
 
-### What I Work With
+### Stack I've worked with in production
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,java,cpp,php,html,css" alt="Languages" />
+</p>
 
-**Backend**
+**Backend & APIs**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,django,laravel,graphql,nginx" alt="Backend" />
+</p>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="Frontend" />
+</p>
 
-**Databases & Infra**
+**Data, Cloud & Tooling**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch,docker,aws,gcp,githubactions,git,jest,linux" alt="Data, cloud and tooling" />
+</p>
 
-**Cloud**
+Plus WebSockets, microservices, IoT integrations, and whatever the next problem needs.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+### Things I've built
 
----
+| Project | What it is |
+| --- | --- |
+| [portfolio](https://github.com/thearpitanand/portfolio) | My personal site, built with Next.js. Live at [thearpitanand.com](https://www.thearpitanand.com) |
+| [interview-prep-guide](https://github.com/thearpitanand/interview-prep-guide) | Notes and material for preparing for software engineering interviews |
+| [nodeJs-server-in-clusters](https://github.com/thearpitanand/nodeJs-server-in-clusters) | Scaling a Node.js server across CPU cores with the cluster module |
 
-### Connect with me
+### Open source & collaboration
+
+I'm putting more of my time into open source and contributing back to tools I use every day. If you're working on something in **TypeScript, Go, NestJS or Next.js** and want another pair of hands, a reviewer or someone to talk through architecture with, I'm happy to help.
+
+### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thearpitanand)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.thearpitanand.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitssanand@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_arpitanand)
-
----
-
-### GitHub Stats
-
-#### Personal
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/the_arpitanand)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearpitanand&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearpitanand&theme=tokyonight" alt="GitHub activity" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thearpitanand&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thearpitanand&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearpitanand&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-#### Work ([@arpitanandzethic](https://github.com/arpitanandzethic))
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitanandzethic&theme=tokyonight" alt="Work Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitanandzethic&theme=tokyonight" alt="Work GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitanandzethic&theme=tokyonight" alt="Work GitHub Streak" />
-</p>
+<p align="center"><i>Always building something. Always happy to learn from people who build differently.</i></p>
