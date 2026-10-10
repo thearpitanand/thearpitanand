@@ -56,14 +56,6 @@ I don't choose problems by stack. I choose a stack that fits the problem, learn 
 
 Plus WebSockets, microservices, IoT integrations, and whatever the next problem needs.
 
-### Things I've built
-
-| Project | What it is |
-| --- | --- |
-| [portfolio](https://github.com/thearpitanand/portfolio) | My personal site, built with Next.js. Live at [thearpitanand.com](https://www.thearpitanand.com) |
-| [interview-prep-guide](https://github.com/thearpitanand/interview-prep-guide) | Notes and material for preparing for software engineering interviews |
-| [nodeJs-server-in-clusters](https://github.com/thearpitanand/nodeJs-server-in-clusters) | Scaling a Node.js server across CPU cores with the cluster module |
-
 ### Open source & collaboration
 
 I'm putting more of my time into open source and contributing back to tools I use every day. If you're working on something in **TypeScript, Go, NestJS or Next.js** and want another pair of hands, a reviewer or someone to talk through architecture with, I'm happy to help.
