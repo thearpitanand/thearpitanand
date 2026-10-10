@@ -58,7 +58,7 @@ Plus WebSockets, microservices, IoT integrations, and whatever the next problem 
 
 ### Open source & collaboration
 
-I'm putting more of my time into open source and contributing back to tools I use every day. If you're working on something in **TypeScript, Go, NestJS or Next.js** and want another pair of hands, a reviewer or someone to talk through architecture with, I'm happy to help.
+I'm putting more of my time into open source and contributing back to tools I use every day. If you're working on something in **TypeScript, Go, Python, NestJS, Next.js or AI/LLM tooling** and want another pair of hands, a reviewer or someone to talk through architecture with, I'm happy to help.
 
 ### Let's connect
 
